@@ -33,3 +33,21 @@ Before you begin, ensure you have met the following requirements:
 -> Start the server by running:
 
 node server.js
+
+
+
+#Speech to Speech bot
+
+Open the python file in a new repository and follow the steps below:
+
+Install all the dependencies using pip install
+
+Then run the pyhon file using the command:
+
+```
+python main.py
+```
+
+Speak into the microphone and Say "Jarvis" to wake the chat bot up and then proceed to speak to the chatbot.
+
+
