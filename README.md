@@ -5,8 +5,11 @@ Alter Ego is a friendly and empathetic AI chatbot designed to support mental hea
 ### Project Structure
 
 ├── basicc.html
+
 ├── backendddd.js
+
 ├── symbol_for_loading.gif
+
 └── .env(create the Gemini API key and store it here)
 
 ### Prerequisites
