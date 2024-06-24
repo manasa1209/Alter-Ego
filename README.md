@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
     
 -> Start the server by running:
 
-node server.js
+node backendddd.js
 
 
 
